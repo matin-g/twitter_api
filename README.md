@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/matin-g/twitter/blob/master/MatinTwitterAPI_APP.gif' title='Video Twitter API APP Walkthrough' width='' alt='Video Twitter API APP Walkthrough' />
+<img src='https://github.com/matin-g/twitter_ios_starter/blob/master/MatinTwitterAPI_APP.gif' title='Video Twitter API APP Walkthrough' width='' alt='Video Twitter API APP Walkthrough' />
